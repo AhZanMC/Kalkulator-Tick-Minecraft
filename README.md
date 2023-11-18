@@ -1,4 +1,4 @@
-# Kalkulator-Tick-Minecraft
+# Kalkulator Tick Minecraft
 Kalkulator buat konversi waktu dunia nyata kedalam waktu dunia Minecraft dalam satuan tick
 
 Dibikin pakai C++ dengan tampilan CLI :v
